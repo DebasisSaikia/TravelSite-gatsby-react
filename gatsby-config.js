@@ -43,5 +43,4 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/TravelSite-gatsby-react",
 }
