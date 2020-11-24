@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/maldives.jpg",
+    "alt": " Veligandu Island, Maldives",
+    "name": "Veligandu Island, Maldives",
+    "view": "View"
+  },
+  {
+    "img": "../assets/images/italy.jpg",
+    "alt": " Castel San Pietro, Italy",
+    "name": "Castel San Pietro, Italy",
+    "view": "View"
+  },
+  {
+    "img": "../assets/images/bali.jpg",
+    "alt": " Canggu, Bali, Indonesia",
+    "name": "Canggu, Bali, Indonesia",
+    "view": "View"
+  },
+  {
+    "img": "../assets/images/norway.jpg",
+    "alt": " Sørenga, Oslo, Norway",
+    "name": "Sørenga, Oslo, Norway",
+    "view": "View"
+  }
+]
